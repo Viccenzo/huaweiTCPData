@@ -1,0 +1,5 @@
+pyModbusTCP
+numpy
+pandas
+sqlalchemy
+psycopg2
